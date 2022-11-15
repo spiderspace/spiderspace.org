@@ -49,6 +49,7 @@ gro deploy
 
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
+[@feltcoop/felt-server](https://github.com/feltcoop/felt-server) ∙
 [Svelte](https://github.com/sveltejs/svelte) ∙
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
