@@ -3,6 +3,7 @@
   "description": "spiderspace is web prototypes 🕸",
   "version": "0.0.1",
   "type": "module",
+  "license": "Unlicense",
   "homepage": "https://spiderspace.org",
   "engines": {
     "node": ">=18.6"
