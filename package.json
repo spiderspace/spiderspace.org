@@ -1,9 +1,9 @@
 {
-  "name": "felt-template",
-  "description": "a static web app and Node library template with SvelteKit, Gro, and Felt",
+  "name": "spiderspace.org",
+  "description": "spiderspace is web prototypes 🕸",
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://template.felt.dev",
+  "homepage": "https://spiderspace.org",
   "engines": {
     "node": ">=18.6"
   },

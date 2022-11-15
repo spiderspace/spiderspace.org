@@ -9,13 +9,14 @@
 <main class="markup column">
 	<section>
 		<header class="centered-hz">
-			<h1>felt<small><a href="https://github.com/feltcoop">💚</a></small>template</h1>
+			<h1>spiderspace<small><a href="https://github.com/spiderspace">🕸</a></small>org</h1>
 		</header>
 		<Message
 			><span slot="icon"
 				>{#if mreows}{mreows[0].icon}{:else}✨{/if}</span
 			><span
-				>hello, welcome to <a href="https://github.com/feltcoop/felt-template">felt-template</a
+				>hello, welcome to spiderspace.org <a href="https://github.com/spiderspace/spiderspace.org">
+					<span style:font-size="var(--font_size_xl)">🐙😺</span> (source code)</a
 				></span
 			></Message
 		>
