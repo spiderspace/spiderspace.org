@@ -20,7 +20,7 @@
     "@feltcoop/felt": "^0.43.0",
     "@feltcoop/gro": "^0.67.3",
     "@feltcoop/util": "^0.4.0",
-    "@sveltejs/adapter-static": "^1.0.0-next.48",
+    "@sveltejs/adapter-node": "^1.0.0-next.100",
     "@sveltejs/kit": "^1.0.0-next.548",
     "@typescript-eslint/eslint-plugin": "^5.43.0",
     "@typescript-eslint/parser": "^5.43.0",
