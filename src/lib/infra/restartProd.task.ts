@@ -1,1 +1,1 @@
-export {task} from '@feltcoop/felt-server/infra/restartProd.task.js';
+export * from '@feltcoop/felt-server/infra/restartProd.task.js';

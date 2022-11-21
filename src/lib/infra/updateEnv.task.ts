@@ -1,1 +1,1 @@
-export {task} from '@feltcoop/felt-server/infra/updateEnv.task.js';
+export * from '@feltcoop/felt-server/infra/updateEnv.task.js';

@@ -1,1 +1,1 @@
-export {task} from '@feltcoop/felt-server/db/create.task.js';
+export * from '@feltcoop/felt-server/db/create.task.js';

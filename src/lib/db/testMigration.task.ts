@@ -1,1 +1,1 @@
-export {task} from '@feltcoop/felt-server/db/testMigration.task.js';
+export * from '@feltcoop/felt-server/db/testMigration.task.js';

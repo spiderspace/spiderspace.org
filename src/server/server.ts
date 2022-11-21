@@ -1,3 +1,3 @@
-import {apiServer} from '@feltcoop/felt-server';
+export * from '@feltcoop/felt-server';
 
 console.log(`apiServer`, apiServer);
