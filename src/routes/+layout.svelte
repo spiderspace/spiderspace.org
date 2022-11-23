@@ -17,7 +17,7 @@
 	import DevmodeControls from '@feltcoop/felt/DevmodeControls.svelte';
 	import {page} from '$app/stores';
 	import {browser, dev} from '$app/environment';
-	import Dialogs from '@feltcoop/felt/dialog/Dialogs.svelte';
+	import Dialogs from '@feltcoop/felt/Dialogs.svelte';
 	import {isEditable, swallow} from '@feltcoop/util/dom.js';
 	import {format} from 'date-fns';
 	import {toSocketStore} from '@feltcoop/felt-server/ui/socket.js';
