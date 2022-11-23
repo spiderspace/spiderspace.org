@@ -11,10 +11,12 @@ npm run dev
 gro dev
 ```
 
-See [SvelteKit](https://github.com/sveltejs/kit),
+For more see
+[@feltcoop/felt-server](https://github.com/feltcoop/felt-server),
+[SvelteKit](https://github.com/sveltejs/kit),
 [Vite](https://github.com/vitejs/vite),
 [Gro](https://github.com/feltcoop/gro),
-and [Felt](https://github.com/feltcoop/felt) for more.
+and [Felt](https://github.com/feltcoop/felt).
 
 ## build
 
@@ -49,6 +51,7 @@ gro deploy
 
 ## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
+[@feltcoop/felt-server](https://github.com/feltcoop/felt-server) ∙
 [Svelte](https://github.com/sveltejs/svelte) ∙
 [SvelteKit](https://github.com/sveltejs/kit) ∙
 [Vite](https://github.com/vitejs/vite) ∙
