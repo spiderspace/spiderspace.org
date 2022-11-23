@@ -1,5 +1,1 @@
-import {apiServer} from '@feltcoop/felt-server';
-
-console.log(`spiderspace apiServer`, apiServer);
-
-export {apiServer};
+export * from '@feltcoop/felt-server';
